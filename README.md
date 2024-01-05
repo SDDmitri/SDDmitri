@@ -8,6 +8,8 @@
 
 <h2>Languages and Tools:</h2>
 <img align="left" alt="Python" title="Python" src="https://cdn.simpleicons.org/python" height="32" width="32"/>
+<img align="left" alt="C++" title="C++" src="https://cdn.simpleicons.org/cplusplus" height="32" width="32"/>
+<img align="left" alt="C#" title="C#" src="https://cdn.simpleicons.org/csharp" height="32" width="32"/>
 <img align="left" alt="PyTorch" title="PyTorch" src="https://cdn.simpleicons.org/pytorch" height="32" width="32"/>
 <img align="left" alt="Pandas" title="Pandas" src="https://cdn.simpleicons.org/pandas" height="32" width="32"/>
 <img align="left" alt="Git" title="Git" src="https://cdn.simpleicons.org/git" height="32" width="32"/>
