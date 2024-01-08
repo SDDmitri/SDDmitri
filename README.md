@@ -16,3 +16,8 @@
 <img align="left" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.simpleicons.org/postgresql" height="32" width="32"/>
 <img align="left" alt="scikit-learn" title="scikit-learn" src="https://cdn.simpleicons.org/scikitlearn" height="32" width="32"/>
 <img align="left" alt="OpenCV" title="OpenCV" src="https://cdn.simpleicons.org/opencv" height="32" width="32"/>
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDDmitri)](https://github.com/anuraghazra/github-readme-stats)
